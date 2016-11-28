@@ -122,6 +122,9 @@ def shuffle():
     random.shuffle(deck)
 
 
+def stephen():
+    print("Stephen was here!")
+
 # ***************************************************************
 
 mainWindow = tkinter.Tk()
